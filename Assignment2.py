@@ -70,5 +70,5 @@ def main():
         else:
             isTrue = False
 
-    if __name__ == "__main__":
+    if __name__ == "__Assignment2__":
         main()
